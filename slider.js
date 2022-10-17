@@ -18,7 +18,7 @@ const portfolio = $(".porfolio__list").bxSlider({
     pager: false,
     controls: false,
     infiniteLoop: true,
-    touchEnable: true,
+    touchEnable: false,
     hideControlOnEnd: false,
 
 });
